@@ -15,3 +15,4 @@
 ### Hva kunne bli gjort annerledes
 - Laget backend i express og koblet opp en database som kan lagre hitorikk og gamle spørringer 
 - Lagt til innlogging og autorisering slik at man kan se det du har gjort før selv.
+- Laget mere forberedelser for feil som kan oppstå.
