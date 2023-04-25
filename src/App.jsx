@@ -4,10 +4,6 @@ import Landingcomp from "./components/Landingcomp";
 import Reply from "./util/Reply";
 import { DotSpinner } from '@uiball/loaders'
 
-/*
-  deres key = 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
-*/
-
 /**
  * Detter er hovedkomponentet til applikasjonen.
  * 
@@ -37,7 +33,7 @@ const App = () => {
   const handleRequest = async(e, type) => {
     
     setLoading(true);
-    const apiKey = "OVjd97OHrsQjK2sDn5kmT3BlbkFJ0itWfbCgjHkvTKhVI2V2";
+    const apiKey = "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";
     const prompt = e;
 
     try {
