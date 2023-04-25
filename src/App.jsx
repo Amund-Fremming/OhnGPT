@@ -33,7 +33,7 @@ const App = () => {
   const handleRequest = async(e, type) => {
     
     setLoading(true);
-    const apiKey = "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";
+    const apiKey = "API_KEY";
     const prompt = e;
 
     try {
